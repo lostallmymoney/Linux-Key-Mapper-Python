@@ -11,7 +11,6 @@ run
 
 to start the tool.
 ## CONFIGURATION goes like that : 
-
   -default
   -3=run1=record
   -3=run2=stopRecord
@@ -23,8 +22,6 @@ to start the tool.
   -11=run1=xdotool key XF86AudioPlay
   -12=key0=XF86AudioNext
   -end
-
-
   -other
   -3=key0=q
   -4=cfg1=default
