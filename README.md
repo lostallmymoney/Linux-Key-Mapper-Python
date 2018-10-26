@@ -10,7 +10,7 @@ run
 'sh start.sh'
 
 to start the tool.
-##Config goes like that : 
+## CONFIGURATION goes like that : 
 
   -default
   -3=run1=record
