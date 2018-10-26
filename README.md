@@ -11,6 +11,7 @@ run
 
 to start the tool.
 Config goes like that : 
+
 -default
 -3=run1=record
 -3=run2=stopRecord
