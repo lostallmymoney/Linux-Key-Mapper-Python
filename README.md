@@ -12,7 +12,9 @@ run
 to start the tool.
 ## CONFIGURATION goes like that : `
   -default
+  
   -3=run1=record
+  
   -3=run2=stopRecord
   -4=cfg1=other
   -5=run0=startAndStopRecord
