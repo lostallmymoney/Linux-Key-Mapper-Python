@@ -10,7 +10,7 @@ run
 'sh start.sh'
 
 to start the tool.
-## CONFIGURATION goes like that : 
+## CONFIGURATION goes like that : `
   -default
   -3=run1=record
   -3=run2=stopRecord
@@ -31,7 +31,7 @@ to start the tool.
   -11=run1=xdotool key XF86AudioPlay
   -12=key0=XF86AudioNext
   -end
-
+`
 run1 runs on press
 run2 runs on release
 run0 runs on both
