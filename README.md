@@ -4,6 +4,7 @@ A python version of a key mapper for linux (can add any device)
 Currently configured with Razer Naga 2014.
 To reconfigure to your device find it's ID in Xinput and switch it at line 5.
 Also change the path of the device file stream (/dev/input/by-id/....)
+Also need to change adapt some for compatibility. I'll add more devices later.
 
 run
 
