@@ -11,28 +11,45 @@ run
 
 to start the tool.
 ## CONFIGURATION goes like that : `
-  -default
+  default
   
-  -3=run1=record
+  3=run1=record
   
-  -3=run2=stopRecord
-  -4=cfg1=other
-  -5=run0=startAndStopRecord
-  -7=key0=XF86AudioLowerVolume
-  -9=key0=XF86AudioRaiseVolume
-  -10=key0=XF86AudioPrev
-  -11=run1=xdotool key XF86AudioPlay
-  -12=key0=XF86AudioNext
-  -end
-  -other
-  -3=key0=q
-  -4=cfg1=default
-  -7=key0=XF86AudioLowerVolume
-  -9=key0=XF86AudioRaiseVolume
-  -10=key0=XF86AudioPrev
-  -11=run1=xdotool key XF86AudioPlay
-  -12=key0=XF86AudioNext
-  -end
+  3=run2=stopRecord
+  
+  4=cfg1=other
+  
+  5=run0=startAndStopRecord
+  
+  7=key0=XF86AudioLowerVolume
+  
+  9=key0=XF86AudioRaiseVolume
+  
+  10=key0=XF86AudioPrev
+  
+  11=run1=xdotool key XF86AudioPlay
+  
+  12=key0=XF86AudioNext
+  
+  end
+  
+  other
+  
+  3=key0=q
+  
+  4=cfg1=default
+  
+  7=key0=XF86AudioLowerVolume
+  
+  9=key0=XF86AudioRaiseVolume
+  
+  10=key0=XF86AudioPrev
+  
+  11=run1=xdotool key XF86AudioPlay
+  
+  12=key0=XF86AudioNext
+  
+  end
 `
 run1 runs on press
 run2 runs on release
