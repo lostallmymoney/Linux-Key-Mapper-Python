@@ -1,4 +1,6 @@
 # Linux-Key-Mapper-Python
+!!! This is only an early beta I did just to test myself, there are weird bugs and I aknowledge them. I recommend using the C++ one !!!
+
 A python version of a key mapper for linux (can add any device)
 
 Currently configured with Razer Naga 2014.
